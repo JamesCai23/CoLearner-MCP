@@ -1,0 +1,9 @@
+lib/
+node_modules/
+test-results/
+playwright-report/
+downloads/
+.vscode/mcp.json
+.github
+.idea
+.DS_Store
